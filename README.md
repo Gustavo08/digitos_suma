@@ -1,0 +1,1 @@
+# Función que tome uno, dos o más números como argumentos y los agregue para obtener un nuevo número. Luego, la función multiplica repetidamente los dígitos del nuevo número entre sí, produciendo un nuevo número, hasta que el producto es solo 1 dígito.
